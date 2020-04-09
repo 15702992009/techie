@@ -10,7 +10,7 @@ https://www.baeldung.com/properties-with-spring
 
 
 
-# 3. configuration-properties-in-spring-boot
+# 3. *configuration-properties-in-spring-boot*
 
 https://www.baeldung.com/configuration-properties-in-spring-boot
 

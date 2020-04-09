@@ -1,2 +1,0 @@
-# techie
- multi-modules technology
